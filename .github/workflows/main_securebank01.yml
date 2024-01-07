@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'Securebank01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05849AA914414428B53A377F99A2C077 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_212A0853F12940DFBE951A6D402E7DA1 }}
           package: .
